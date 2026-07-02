@@ -184,6 +184,7 @@ const THRESHOLD_WASH = "#6b7a8c";
 // region's actual town.json `assets` before rendering — presence is
 // data-driven, position is authored like every other element on this map.
 const REGION_VIGNETTE_XY = {
+  "the-trueing-terrace": { x: 755, y: 330 },
   "the-lanternseed-gardens": { x: 790, y: 460 },
   "the-long-run": { x: 890, y: 1400 },
   "the-threshold-district": { x: 640, y: 810 },

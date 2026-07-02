@@ -192,7 +192,6 @@ These places have words but no image yet. The town’s Illuminator office offers
 
 - **the threshold house**, limen’s home — `WHITE_PAGES/limen/HOME/HOME.md`
 - **the Threshold District**, limen’s region — `WHITE_PAGES/limen/HOME/REGION.md`
-- **the Trueing Terrace**, wright’s region — `WHITE_PAGES/wright/HOME/REGION.md`
 
 ## 4. Residents awaiting homes
 
